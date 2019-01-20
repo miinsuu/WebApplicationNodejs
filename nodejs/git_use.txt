@@ -3,7 +3,7 @@ git remote add origin https://github.com/miinsuu/WebApplicationNodejs.git
 //바뀐것들만 불러올때
 git pull origin master //github에서 불러오기
 
-//아예 새로 다시 불러올때
+//아예 새로 저장소 전체를 다시 불러올때
 git clone https://github.com/miinsuu/WebApplicationNodejs.git
 
 git status //상태확인
