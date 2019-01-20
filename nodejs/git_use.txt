@@ -1,0 +1,11 @@
+git remote add origin https://github.com/miinsuu/WebApplicationNodejs.git
+
+git pull origin master //github에서 불러오기
+
+git clone https://github.com/miinsuu/WebApplicationNodejs.git
+
+git status //상태확인
+
+git add *
+git commit -am "nodejs"
+git push -u origin master
