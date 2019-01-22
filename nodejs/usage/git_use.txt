@@ -1,5 +1,8 @@
 git remote add origin https://github.com/miinsuu/WebApplicationNodejs.git
 
+//새로운 저장소 
+git pull --rebase origin master
+
 //바뀐것들만 불러올때
 git pull origin master //github에서 불러오기
 
